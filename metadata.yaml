@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '24858'
     url: http://www.gutenberg.org/2009/agents/24858
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21682#The-Field-and-Garden-Vegetables-of-AmericaCulture-and-Use.
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2007-06-05'
 gutenberg_type: Text
